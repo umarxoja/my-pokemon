@@ -1,7 +1,7 @@
 
 # Pokedex - Pokemon Api with ReactJs
 
-(My pokemon demo)[https://pokemon-by-umar.netlify.app]
+[My pokemon demo](https://pokemon-by-umar.netlify.app)
 
 
 An application to display Pokemon anime statistics using the api publishes PokeApi
